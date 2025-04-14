@@ -1,10 +1,10 @@
-# graph-imdb
+#graph-imdb
 
-# 🎬 Análise de Filmes no IMDb
+#Análise de Filmes no IMDb
 
 Este projeto utiliza Python e bibliotecas como `pandas` e `matplotlib` para analisar um conjunto de dados de filmes populares do IMDb. A ideia é agrupar os filmes por década e visualizar a quantidade de filmes com altas avaliações ao longo do tempo.
 
-## 📌 Objetivo
+##Objetivo
 
 - Criar um gráfico que mostre a quantidade de filmes por década.
 - Visualizar títulos com maior nota no IMDb.
@@ -30,6 +30,4 @@ Este projeto utiliza Python e bibliotecas como `pandas` e `matplotlib` para anal
 ##Visualização
 
 O gráfico gerado mostra a quantidade de filmes por década. Além disso, é possível visualizar o nome de alguns filmes mais populares por cima das barras:
-
-<img src="exemplo_grafico.png" alt="Gráfico de filmes por década" width="600"/>
 
